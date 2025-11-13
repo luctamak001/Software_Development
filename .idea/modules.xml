@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Interfaces/CodeAlong1/CodeAlong1.iml" filepath="$PROJECT_DIR$/Interfaces/CodeAlong1/CodeAlong1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/CodeAlong2/CodeAlong2.iml" filepath="$PROJECT_DIR$/Interfaces/CodeAlong2/CodeAlong2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/EX-Activity-1/EX-Activity-1.iml" filepath="$PROJECT_DIR$/Exceptions/EX-Activity-1/EX-Activity-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/EX-Activity-2/EX-Activity-2.iml" filepath="$PROJECT_DIR$/Exceptions/EX-Activity-2/EX-Activity-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/EX-CodeAlong1/EX-CodeAlong1.iml" filepath="$PROJECT_DIR$/Exceptions/EX-CodeAlong1/EX-CodeAlong1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/EX-CodeAlong2/EX-CodeAlong2.iml" filepath="$PROJECT_DIR$/Exceptions/EX-CodeAlong2/EX-CodeAlong2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Software Development.iml" filepath="$PROJECT_DIR$/Software Development.iml" />
     </modules>
