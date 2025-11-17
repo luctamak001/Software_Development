@@ -3,6 +3,8 @@
 //  That means any method that might throw it must either handle it in a try/catch
 //  block or declare it with "throws InvalidGradeException".
 public class InvalidGradeException extends Exception {
+    public InvalidGradeException(String grade) {
+    }
 
     // TODO: Add a no-argument constructor.
     //  - Inside it, call the superclass (Exception) constructor using super(...).

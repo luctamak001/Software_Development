@@ -2,6 +2,8 @@
 //  Confirm that it extends Exception so it behaves as a checked exception.
 //  That means code that might throw this must either catch it or declare it with "throws".
 public class InvalidUsernameException extends Exception {
+    public InvalidUsernameException(String usernames) {
+    }
 
     // TODO: Define constructors for this exception, similar to your other custom exception classes.
     //  - Create a no-argument constructor that supplies a default username-related error
